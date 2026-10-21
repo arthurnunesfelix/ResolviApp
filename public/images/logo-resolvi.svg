@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" fill="none">
+  <!-- Ícone da casa com pessoa -->
+  <g>
+    <!-- Telhado -->
+    <path d="M12 58 L52 18 L92 58" stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Paredes -->
+    <path d="M22 52 L22 102 L82 102 L82 52" stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Porta -->
+    <path d="M40 102 L40 78 Q40 72 47 72 L57 72 Q64 72 64 78 L64 102" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Janela esq -->
+    <rect x="27" y="62" width="12" height="12" rx="2" stroke="currentColor" stroke-width="5"/>
+    <!-- Janela dir -->
+    <rect x="65" y="62" width="12" height="12" rx="2" stroke="currentColor" stroke-width="5"/>
+    <!-- Pessoa dentro -->
+    <circle cx="52" cy="36" r="6.5" stroke="currentColor" stroke-width="5"/>
+    <path d="M52 42.5 L52 57 M44 49 L60 49 M46 57 L40 68 M58 57 L64 68" stroke="currentColor" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Texto "Resolvi" -->
+  <text
+    x="104"
+    y="84"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="76"
+    font-weight="400"
+    fill="currentColor"
+    letter-spacing="-2"
+  >Resolvi</text>
+</svg>
